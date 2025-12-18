@@ -1,6 +1,6 @@
 # CASTOR CLI - Secure Authentication Console
 
-x86 assembly authentication program that implements a password-protected login system with attempt limiting and lockout features.
+x86 assembly authentication console that implements a password-protected login system with attempt limiting and lockout features.
 
 ## Features
 
